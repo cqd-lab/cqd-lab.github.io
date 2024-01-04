@@ -11,7 +11,7 @@
         - https://github.com/cqd-lab/petfinder
         - Solução para cadastro e match, utilizando deep learning, de animais de estimação perdidos.
     - Links Switch
-        - https://github.com/cqd-lab/links-switch
+        - https://github.com/cqd-lab/link-switch
         - Ferramenta multifunção para encurtamento de URLs.
     - DataSS - Data Science ShortcutS
         - https://github.com/cqd-lab/datass
